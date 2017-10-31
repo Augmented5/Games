@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Abhishek&apos;s drive\CodeZone\Unity\Games\AndroidPro\ProjectShowcaseGames\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="F:\Abhishek&apos;s drive\CodeZone\Unity\Games\AndroidPro\ProjectShowcaseGames\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_c3c54ff2804677818bb0667b6f86f7eba876c2a9.jar" />
+    </item>
+    <item
+        jar="F:\Abhishek&apos;s drive\CodeZone\Unity\Games\AndroidPro\ProjectShowcaseGames\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="4cdcec43cf45828036b0a12c88602e60520eac00">
+        <dex dex="F:\Abhishek&apos;s drive\CodeZone\Unity\Games\AndroidPro\ProjectShowcaseGames\build\intermediates\pre-dexed\debug\unity-classes_426fa3f57d76ca0e9c355aedc249677e8a9acdac.jar" />
+    </item>
+    <item
+        jar="F:\Abhishek&apos;s drive\CodeZone\Unity\Games\AndroidPro\ProjectShowcaseGames\libs\Vuforia.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="F:\Abhishek&apos;s drive\CodeZone\Unity\Games\AndroidPro\ProjectShowcaseGames\build\intermediates\pre-dexed\debug\Vuforia_103c460f3a9dd47af5179c88ef6e0e074d121595.jar" />
+    </item>
+
+</items>
